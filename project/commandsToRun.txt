@@ -1,0 +1,42 @@
+//komendy do wpisania w terminalu w webstormie:
+
+// odpalenie bazy danych
+
+! sudo docker run --name=mysql --net=host --rm --env MYSQL_ROOT_PASSWORD=root123 --env MYSQL_ROOT_HOST=% --env MYSQL_DATABASE=test --env MYSQL_USER=test --env MYSQL_PASSWORD=test123 -d mysql/mysql-server:8.0
+
+! while ! timeout 1 bash -c "echo > /dev/tcp/localhost/3306" 2> /dev/null; do sleep 1; done; echo "Done.";
+
+// inicjalizacja reszty
+
+! composer install
+! cp .env.example .env
+php artisan key:generate
+php artisan migrate:fresh
+php artisan db:seed
+
+
+// potrzebne do testów (chyba)
+
+! mysqldump -h127.0.0.1 -u root --password=root123 test > tests_codeception/_data/dump.sql
+
+
+
+// żeby odpalić server:
+
+php artisan serve --port 8888
+
+// jeśli jest błąd:
+Illuminate\Database\QueryException
+// to trzeba odpalić bazę danych (na górze komedy do tego)
+// a potem:
+php artisan migrate
+php artisan db:seed
+php
+
+
+//wszystko na raz do odpalenia
+! sudo docker run --name=mysql --net=host --rm --env MYSQL_ROOT_PASSWORD=root123 --env MYSQL_ROOT_HOST=% --env MYSQL_DATABASE=test --env MYSQL_USER=test --env MYSQL_PASSWORD=test123 -d mysql/mysql-server:8.0
+! while ! timeout 1 bash -c "echo > /dev/tcp/localhost/3306" 2> /dev/null; do sleep 1; done; echo "Done."
+php artisan migrate:fresh
+php artisan db:seed
+php artisan serve --port 8888

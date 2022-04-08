@@ -1,0 +1,480 @@
+1,Kraków,Alwernia,42 min,1,5.65
+2,Alwernia,Kraków,42 min,1,5.3
+3,Kraków,Andrychów,1 godz. 34 min,1,12.3
+4,Andrychów,Kraków,1 godz. 34 min,1,11.6
+5,Kraków,Białka Tatrzańska,1 godz. 55 min,1,14.65
+6,Białka Tatrzańska,Kraków,1 godz. 55 min,1,15.2
+7,Kraków,Biecz,2 godz. 54 min,2,23.95
+8,Biecz,Kraków,2 godz. 54 min,2,23.45
+9,Kraków,Bochnia,1 godz. 2 min,2,8.85
+10,Bochnia,Kraków,1 godz. 2 min,2,8.25
+11,Kraków,Bolęcin,1 godz. 6 min,2,9.05
+12,Bolęcin,Kraków,1 godz. 6 min,2,8.8
+13,Kraków,Brzesko,1 godz. 5 min,1,9.0
+14,Brzesko,Kraków,1 godz. 5 min,1,8.9
+15,Kraków,Brzoskwinia,56 min,3,7.4
+16,Brzoskwinia,Kraków,56 min,3,8.1
+17,Kraków,Bukowina Tatrzańska,2 godz. 5 min,1,15.25
+18,Bukowina Tatrzańska,Kraków,2 godz. 5 min,1,17.2
+19,Kraków,Chobot,51 min,3,6.85
+20,Chobot,Kraków,51 min,3,6.35
+21,Kraków,Chrzanów,56 min,3,7.45
+22,Chrzanów,Kraków,56 min,3,7.1
+23,Kraków,Ciężkowice,1 godz. 47 min,4,13.95
+24,Ciężkowice,Kraków,1 godz. 47 min,4,13.5
+25,Kraków,Czchów,1 godz. 28 min,4,11.6
+26,Czchów,Kraków,1 godz. 28 min,4,11.15
+27,Kraków,Dąbrowa Tarnowska,1 godz. 25 min,1,12.0
+28,Dąbrowa Tarnowska,Kraków,1 godz. 25 min,1,11.3
+29,Kraków,Dobczyce,1 godz. 5 min,4,8.5
+30,Dobczyce,Kraków,1 godz. 5 min,4,8.55
+31,Kraków,Dobra,1 godz. 31 min,5,11.4
+32,Dobra,Kraków,1 godz. 31 min,5,11.25
+33,Kraków,Dziewin,1 godz. 27 min,5,10.7
+34,Dziewin,Kraków,1 godz. 27 min,5,12.35
+35,Kraków,Frywałd,37 min,5,4.75
+36,Frywałd,Kraków,37 min,5,4.75
+37,Kraków,Gdów,52 min,6,7.35
+38,Gdów,Kraków,52 min,6,7.35
+39,Kraków,Gorlice,2 godz. 20 min,6,17.05
+40,Gorlice,Kraków,2 godz. 20 min,6,17.65
+41,Kraków,Grybów,2 godz. 45 min,6,21.3
+42,Grybów,Kraków,2 godz. 45 min,6,20.7
+43,Kraków,Jabłonka,2 godz. 2 min,4,15.25
+44,Jabłonka,Kraków,2 godz. 2 min,4,17.5
+45,Kraków,Jodłownik,1 godz. 16 min,5,10.35
+46,Jodłownik,Kraków,1 godz. 16 min,5,10.75
+47,Kraków,Jordanów,1 godz. 29 min,7,10.9
+48,Jordanów,Kraków,1 godz. 29 min,7,11.75
+49,Kraków,Kalwaria Zebrzydowska,54 min,7,7.85
+50,Kalwaria Zebrzydowska,Kraków,54 min,7,7.5
+51,Kraków,Kamienica,1 godz. 48 min,7,14.15
+52,Kamienica,Kraków,1 godz. 48 min,7,13.95
+53,Kraków,Kęty,1 godz. 47 min,1,15.1
+54,Kęty,Kraków,1 godz. 47 min,1,15.25
+55,Kraków,Konina,1 godz. 30 min,8,10.9
+56,Konina,Kraków,1 godz. 30 min,8,11.35
+57,Kraków,Koszyce,1 godz. 22 min,1,10.35
+58,Koszyce,Kraków,1 godz. 22 min,1,10.25
+59,Kraków,Krasne-Lasocice,1 godz. 16 min,8,11.05
+60,Krasne-Lasocice,Kraków,1 godz. 16 min,8,11.05
+61,Kraków,Krościenko nad Dunajcem,2 godz. 9 min,8,18.4
+62,Krościenko nad Dunajcem,Kraków,2 godz. 9 min,8,18.8
+63,Kraków,Krynica-Zdrój,3 godz. 3 min,9,26.6
+64,Krynica-Zdrój,Kraków,3 godz. 3 min,9,25.4
+65,Kraków,Krzeszowice,40 min,9,5.4
+66,Krzeszowice,Kraków,40 min,9,5.8
+67,Kraków,Libiąż,1 godz. 10 min,1,8.6
+68,Libiąż,Kraków,1 godz. 10 min,1,9.2
+69,Kraków,Limanowa,1 godz. 50 min,9,14.85
+70,Limanowa,Kraków,1 godz. 50 min,9,15.0
+71,Kraków,Lisia Góra,1 godz. 5 min,4,8.95
+72,Lisia Góra,Kraków,1 godz. 5 min,4,8.05
+73,Kraków,Łapanów,55 min,9,7.35
+74,Łapanów,Kraków,55 min,9,7.2
+75,Kraków,Maków Podhalański,1 godz. 32 min,10,13.1
+76,Maków Podhalański,Kraków,1 godz. 32 min,10,12.05
+77,Kraków,Michałowice,22 min,9,2.8
+78,Michałowice,Kraków,22 min,9,2.75
+79,Kraków,Miechów,58 min,10,7.25
+80,Miechów,Kraków,58 min,10,7.75
+81,Kraków,Mszana Dolna,1 godz. 9 min,10,10.05
+82,Mszana Dolna,Kraków,1 godz. 9 min,10,8.8
+83,Kraków,Myślenice,1 godz. 6 min,8,8.35
+84,Myślenice,Kraków,1 godz. 6 min,8,8.7
+85,Kraków,Nowe Brzesko,39 min,9,4.7
+86,Nowe Brzesko,Kraków,39 min,9,5.45
+87,Kraków,Nowy Sącz,2 godz. 10 min,1,18.9
+88,Nowy Sącz,Kraków,2 godz. 10 min,1,18.45
+89,Kraków,Nowy Targ,1 godz. 35 min,11,12.7
+90,Nowy Targ,Kraków,1 godz. 35 min,11,13.75
+91,Kraków,Ojców,40 min,3,5.15
+92,Ojców,Kraków,40 min,3,5.45
+93,Kraków,Olkusz,53 min,11,6.55
+94,Olkusz,Kraków,53 min,11,6.45
+95,Kraków,Ostrężnica,59 min,1,7.2
+96,Ostrężnica,Kraków,59 min,1,7.65
+97,Kraków,Oświęcim,1 godz. 25 min,5,12.15
+98,Oświęcim,Kraków,1 godz. 25 min,5,11.65
+99,Kraków,Pcim,55 min,11,6.95
+100,Pcim,Kraków,55 min,11,7.75
+101,Kraków,Pieskowa Skała,41 min,12,5.8
+102,Pieskowa Skała,Kraków,41 min,12,4.9
+103,Kraków,Piwniczna-Zdrój,3 godz. 2 min,5,25.55
+104,Piwniczna-Zdrój,Kraków,3 godz. 2 min,5,22.05
+105,Kraków,Proszowice,50 min,9,7.25
+106,Proszowice,Kraków,50 min,9,6.35
+107,Kraków,Rabka-Zdrój,1 godz. 24 min,4,11.6
+108,Rabka-Zdrój,Kraków,1 godz. 24 min,4,11.1
+109,Kraków,Raciechowice,56 min,12,8.15
+110,Raciechowice,Kraków,56 min,12,6.85
+111,Kraków,Racławice,1 godz. 15 min,12,9.9
+112,Racławice,Kraków,1 godz. 15 min,12,10.5
+113,Kraków,Rajbrot,1 godz. 28 min,1,11.45
+114,Rajbrot,Kraków,1 godz. 28 min,1,11.45
+115,Kraków,Rytro,2 godz. 46 min,8,23.75
+116,Rytro,Kraków,2 godz. 46 min,8,22.4
+117,Kraków,Skała,41 min,13,4.9
+118,Skała,Kraków,41 min,13,5.2
+119,Kraków,Skawina,28 min,13,3.65
+120,Skawina,Kraków,28 min,13,3.85
+121,Kraków,Słomniki,36 min,8,5.05
+122,Słomniki,Kraków,36 min,8,4.45
+123,Kraków,Spytkowice,1 godz. 5 min,7,8.8
+124,Spytkowice,Kraków,1 godz. 5 min,7,9.1
+125,Kraków,Stary Sącz,2 godz. 28 min,1,20.6
+126,Stary Sącz,Kraków,2 godz. 28 min,1,19.2
+127,Kraków,Sucha Beskidzka,1 godz. 21 min,13,10.75
+128,Sucha Beskidzka,Kraków,1 godz. 21 min,13,10.95
+129,Kraków,Sułkowice,52 min,14,6.8
+130,Sułkowice,Kraków,52 min,14,7.1
+131,Kraków,Szczawnica,2 godz. 18 min,8,18.75
+132,Szczawnica,Kraków,2 godz. 18 min,8,20.15
+133,Kraków,Szczucin,1 godz. 40 min,14,12.05
+134,Szczucin,Kraków,1 godz. 40 min,14,14.35
+135,Kraków,Szczyrzyc,1 godz. 10 min,14,9.35
+136,Szczyrzyc,Kraków,1 godz. 10 min,14,9.75
+137,Kraków,Tarnów,1 godz. 40 min,1,12.2
+138,Tarnów,Kraków,1 godz. 40 min,1,14.4
+139,Kraków,Tokarnia,1 godz. 16 min,10,9.5
+140,Tokarnia,Kraków,1 godz. 16 min,10,10.1
+141,Kraków,Trzebinia,1 godz. 7 min,15,9.65
+142,Trzebinia,Kraków,1 godz. 7 min,15,8.75
+143,Kraków,Tuchów,2 godz. 6 min,9,17.85
+144,Tuchów,Kraków,2 godz. 6 min,9,17.05
+145,Kraków,Tymbark,1 godz. 34 min,5,13.05
+146,Tymbark,Kraków,1 godz. 34 min,5,12.5
+147,Kraków,Wadowice,1 godz. 13 min,13,10.3
+148,Wadowice,Kraków,1 godz. 13 min,13,9.4
+149,Kraków,Wieliczka,35 min,2,4.3
+150,Wieliczka,Kraków,35 min,2,4.75
+151,Kraków,Wiśniowa,1 godz. 7 min,7,8.45
+152,Wiśniowa,Kraków,1 godz. 7 min,7,9.25
+153,Kraków,Wojnicz,1 godz. 23 min,15,10.05
+154,Wojnicz,Kraków,1 godz. 23 min,15,10.3
+155,Kraków,Wolbrom,1 godz. 4 min,2,8.15
+156,Wolbrom,Kraków,1 godz. 4 min,2,8.0
+157,Kraków,Wysowa-Zdrój,3 godz. 45 min,7,27.5
+158,Wysowa-Zdrój,Kraków,3 godz. 45 min,7,29.05
+159,Kraków,Zakliczyn,1 godz. 28 min,15,11.2
+160,Zakliczyn,Kraków,1 godz. 28 min,15,12.75
+161,Kraków,Zakopane,2 godz. 10 min,16,18.35
+162,Zakopane,Kraków,2 godz. 10 min,16,15.8
+163,Kraków,Zator,1 godz. 5 min,16,8.8
+164,Zator,Kraków,1 godz. 5 min,16,8.45
+165,Kraków,Zawoja,2 godz. 15 min,2,19.15
+166,Zawoja,Kraków,2 godz. 15 min,2,18.5
+167,Kraków,Żegocina,1 godz. 30 min,12,13.1
+168,Żegocina,Kraków,1 godz. 30 min,12,12.75
+169,Kraków,Amsterdam,19 godz. 30 min,2,154.75
+170,Amsterdam,Kraków,19 godz. 30 min,2,144.5
+171,Kraków,Bogumin,2 godz. 50 min,4,21.2
+172,Bogumin,Kraków,2 godz. 50 min,4,21.0
+173,Kraków,Brno,5 godz.,5,40.8
+174,Brno,Kraków,5 godz.,5,39.4
+175,Kraków,Budapeszt,7 godz. 25 min,16,60.35
+176,Budapeszt,Kraków,7 godz. 25 min,16,62.2
+177,Kraków,Donovaly,3 godz. 10 min,17,23.5
+178,Donovaly,Kraków,3 godz. 10 min,17,27.25
+179,Kraków,Lwów,8 godz. 50 min,9,69.35
+180,Lwów,Kraków,8 godz. 50 min,9,63.75
+181,Kraków,Monachium,13 godz.,4,100.55
+182,Monachium,Kraków,13 godz.,4,100.6
+183,Kraków,Praga,8 godz. 10 min,4,70.05
+184,Praga,Kraków,8 godz. 10 min,4,64.2
+185,Kraków,Wiedeń,7 godz.,5,50.65
+186,Wiedeń,Kraków,7 godz.,5,60.4
+187,Andrychów,Wadowice,15 min,4,3.5
+188,Wadowice,Andrychów,15 min,4,3.5
+189,Bielsko-Biała,Andrychów,49 min,4,6.55
+190,Andrychów,Bielsko-Biała,49 min,4,6.0
+191,Bochnia,Brzesko,27 min,4,3.8
+192,Brzesko,Bochnia,27 min,4,3.3
+193,Bochnia,Gdów,26 min,5,3.65
+194,Gdów,Bochnia,26 min,5,3.75
+195,Bochnia,Rajbrot,39 min,4,4.9
+196,Rajbrot,Bochnia,39 min,4,5.4
+197,Częstochowa,Olkusz,1 godz. 17 min,4,11.2
+198,Olkusz,Częstochowa,1 godz. 17 min,4,9.95
+199,Dąbrowa Górnicza,Olkusz,41 min,4,5.05
+200,Olkusz,Dąbrowa Górnicza,41 min,4,6.0
+201,Katowice,Chrzanów,1 godz. 5 min,1,9.45
+202,Chrzanów,Katowice,1 godz. 5 min,1,8.1
+203,Krzeszowice,Alwernia,32 min,1,4.2
+204,Alwernia,Krzeszowice,32 min,1,4.15
+205,Limanowa,Jodłownik,25 min,17,3.2
+206,Jodłownik,Limanowa,25 min,17,3.05
+207,Limanowa,Mszana Dolna,45 min,17,6.0
+208,Mszana Dolna,Limanowa,45 min,17,5.7
+209,Limanowa,Szczyrzyc,43 min,7,6.25
+210,Szczyrzyc,Limanowa,43 min,7,5.35
+211,Limanowa,Tymbark,20 min,18,2.65
+212,Tymbark,Limanowa,20 min,18,2.55
+213,Miechów,Słomniki,18 min,18,2.45
+214,Słomniki,Miechów,18 min,18,2.5
+215,Mszana Dolna,Konina,21 min,18,2.75
+216,Konina,Mszana Dolna,21 min,18,2.8
+217,Mszana Dolna,Lubomierz,19 min,19,2.4
+218,Lubomierz,Mszana Dolna,19 min,19,2.3
+219,Myślenice,Bogdanówka,40 min,9,5.75
+220,Bogdanówka,Myślenice,40 min,9,5.4
+221,Myślenice,Dobczyce,20 min,19,2.6
+222,Dobczyce,Myślenice,20 min,19,2.7
+223,Myślenice,Gdów,35 min,19,5.05
+224,Gdów,Myślenice,35 min,19,4.45
+225,Myślenice,Mszana Dolna,1 godz.,20,7.8
+226,Mszana Dolna,Myślenice,1 godz.,20,8.2
+227,Myślenice,Poręba,1 godz. 40 min,10,14.05
+228,Poręba,Myślenice,1 godz. 40 min,10,14.05
+229,Myślenice,Węglówka,52 min,20,6.75
+230,Węglówka,Myślenice,52 min,20,7.4
+231,Nowy Sącz,Gorlice,1 godz.,20,8.35
+232,Gorlice,Nowy Sącz,1 godz.,20,7.4
+233,Nowy Sącz,Krynica-Zdrój,55 min,21,7.65
+234,Krynica-Zdrój,Nowy Sącz,55 min,21,7.95
+235,Nowy Sącz,Limanowa,51 min,21,6.7
+236,Limanowa,Nowy Sącz,51 min,21,6.4
+237,Nowy Sącz,Piwniczna-Zdrój,44 min,21,5.95
+238,Piwniczna-Zdrój,Nowy Sącz,44 min,21,5.35
+239,Nowy Sącz,Szczawa,55 min,1,7.15
+240,Szczawa,Nowy Sącz,55 min,1,8.0
+241,Nowy Sącz,Szczawnica,1 godz. 10 min,21,8.6
+242,Szczawnica,Nowy Sącz,1 godz. 10 min,21,10.1
+243,Nowy Sącz,Zakopane,2 godz. 10 min,11,17.5
+244,Zakopane,Nowy Sącz,2 godz. 10 min,11,18.5
+245,Nowy Targ,Rabka-Zdrój,48 min,2,6.5
+246,Rabka-Zdrój,Nowy Targ,48 min,2,6.3
+247,Nowy Targ,Szczawnica,50 min,21,6.95
+248,Szczawnica,Nowy Targ,50 min,21,6.95
+249,Nowy Targ,Zakopane,30 min,22,4.05
+250,Zakopane,Nowy Targ,30 min,22,3.75
+251,Olkusz,Bukowno,21 min,22,2.9
+252,Bukowno,Olkusz,21 min,22,2.95
+253,Olkusz,Krzeszowice,35 min,22,4.3
+254,Krzeszowice,Olkusz,35 min,22,4.95
+255,Olkusz,Ostrężnica,19 min,22,2.65
+256,Ostrężnica,Olkusz,19 min,22,2.5
+257,Olkusz,Wolbrom,25 min,5,3.2
+258,Wolbrom,Olkusz,25 min,5,3.45
+259,Oświęcim,Chrzanów,44 min,23,6.2
+260,Chrzanów,Oświęcim,44 min,23,5.55
+261,Oświęcim,Kęty,30 min,8,3.75
+262,Kęty,Oświęcim,30 min,8,3.85
+263,Oświęcim,Zator,34 min,5,4.85
+264,Zator,Oświęcim,34 min,5,4.9
+265,Proszowice,Kazimierza Wielka,23 min,23,3.0
+266,Kazimierza Wielka,Proszowice,23 min,23,2.9
+267,Rabka-Zdrój,Jabłonka,46 min,23,5.75
+268,Jabłonka,Rabka-Zdrój,46 min,23,5.8
+269,Rabka-Zdrój,Jordanów,21 min,24,2.65
+270,Jordanów,Rabka-Zdrój,21 min,24,2.85
+271,Rabka-Zdrój,Mszana Dolna,25 min,23,3.35
+272,Mszana Dolna,Rabka-Zdrój,25 min,23,3.05
+273,Sucha Beskidzka,Jordanów,40 min,24,5.4
+274,Jordanów,Sucha Beskidzka,40 min,24,5.45
+275,Tarnów,Brzesko,45 min,16,5.6
+276,Brzesko,Tarnów,45 min,16,5.5
+277,Tarnów,Dąbrowa Tarnowska,45 min,16,5.4
+278,Dąbrowa Tarnowska,Tarnów,45 min,16,6.15
+279,Tarnów,Jasło,1 godz. 28 min,11,11.5
+280,Jasło,Tarnów,1 godz. 28 min,11,11.15
+281,Tarnów,Krosno,2 godz. 10 min,24,17.15
+282,Krosno,Tarnów,2 godz. 10 min,24,17.9
+283,Tarnów,Nowy Sącz,1 godz. 34 min,25,11.75
+284,Nowy Sącz,Tarnów,1 godz. 34 min,25,13.35
+285,Tarnów,Pilzno,37 min,25,5.35
+286,Pilzno,Tarnów,37 min,25,5.4
+287,Tarnów,Szczucin,1 godz.,25,8.7
+288,Szczucin,Tarnów,1 godz.,25,7.2
+289,Tarnów,Tuchów,32 min,26,3.85
+290,Tuchów,Tarnów,32 min,26,4.35
+291,Tarnów,Wojnicz,25 min,26,3.0
+292,Wojnicz,Tarnów,25 min,26,3.1
+293,Tarnów,Żabno,40 min,26,5.7
+294,Żabno,Tarnów,40 min,26,5.05
+295,Wieliczka,Kłaj,25 min,26,3.9
+296,Kłaj,Wieliczka,25 min,26,3.9
+297,Wieliczka,Podstolice,14 min,22,3.7
+298,Podstolice,Wieliczka,14 min,22,3.7
+299,Kraków,Bielsko-Biała,2 godz. 18 min,27,18.9
+300,Bielsko-Biała,Kraków,2 godz. 18 min,27,16.55
+301,Kraków,Biłgoraj,4 godz. 39 min,27,34.75
+302,Biłgoraj,Kraków,4 godz. 39 min,27,34.45
+303,Kraków,Brzozów,3 godz. 25 min,27,25.7
+304,Brzozów,Kraków,3 godz. 25 min,27,29.4
+305,Kraków,Busko-Zdrój,2 godz. 15 min,28,19.05
+306,Busko-Zdrój,Kraków,2 godz. 15 min,28,16.25
+307,Kraków,Bydgoszcz,7 godz. 43 min,28,56.65
+308,Bydgoszcz,Kraków,7 godz. 43 min,28,62.3
+309,Kraków,Bytom,2 godz. 5 min,28,15.7
+310,Bytom,Kraków,2 godz. 5 min,28,17.15
+311,Kraków,Ciechocinek,7 godz. 5 min,29,52.75
+312,Ciechocinek,Kraków,7 godz. 5 min,29,62.2
+313,Kraków,Cieszyn,2 godz. 25 min,29,18.9
+314,Cieszyn,Kraków,2 godz. 25 min,29,20.5
+315,Kraków,Częstochowa,2 godz. 10 min,29,16.5
+316,Częstochowa,Kraków,2 godz. 10 min,29,16.1
+317,Kraków,Dębica,2 godz. 55 min,30,24.2
+318,Dębica,Kraków,2 godz. 55 min,30,25.3
+319,Kraków,Działoszyce,1 godz. 35 min,30,12.55
+320,Działoszyce,Kraków,1 godz. 35 min,30,11.6
+321,Kraków,Gdańsk,10 godz.,1,74.15
+322,Gdańsk,Kraków,10 godz.,1,76.35
+323,Kraków,Gdynia,10 godz. 40 min,30,79.3
+324,Gdynia,Kraków,10 godz. 40 min,30,93.35
+325,Kraków,Gliwice,2 godz. 10 min,31,18.15
+326,Gliwice,Kraków,2 godz. 10 min,31,18.05
+327,Kraków,Janów Lubelski,4 godz.,31,32.75
+328,Janów Lubelski,Kraków,4 godz.,31,29.25
+329,Kraków,Jarosław,3 godz. 25 min,31,25.8
+330,Jarosław,Kraków,3 godz. 25 min,31,25.8
+331,Kraków,Jasło,2 godz. 30 min,32,19.85
+332,Jasło,Kraków,2 godz. 30 min,32,19.8
+333,Kraków,Jastrzębia Góra,7 godz. 40 min,32,57.3
+334,Jastrzębia Góra,Kraków,7 godz. 40 min,32,61.1
+335,Kraków,Jastrzębie-Zdrój,2 godz. 40 min,4,19.75
+336,Jastrzębie-Zdrój,Kraków,2 godz. 40 min,4,22.4
+337,Kraków,Jaworzno,1 godz. 10 min,5,10.15
+338,Jaworzno,Kraków,1 godz. 10 min,5,8.95
+339,Kraków,Jędrzejów,1 godz. 34 min,4,11.55
+340,Jędrzejów,Kraków,1 godz. 34 min,4,12.05
+341,Kraków,Karwia,7 godz 50 min,5,0.9
+342,Karwia,Kraków,7 godz 50 min,5,1.0
+343,Kraków,Katowice,1 godz. 10 min,32,8.85
+344,Katowice,Kraków,1 godz. 10 min,32,9.65
+345,Kraków,Kazimierza Wielka,59 min,26,8.05
+346,Kazimierza Wielka,Kraków,59 min,26,7.1
+347,Kraków,Kielce,1 godz. 56 min,8,15.1
+348,Kielce,Kraków,1 godz. 56 min,8,14.3
+349,Kraków,Kolbuszowa,2 godz. 45 min,5,22.75
+350,Kolbuszowa,Kraków,2 godz. 45 min,5,23.35
+351,Kraków,Kołobrzeg,11 godz. 35 min,5,91.5
+352,Kołobrzeg,Kraków,11 godz. 35 min,5,98.6
+353,Kraków,Krosno,2 godz. 50 min,5,23.1
+354,Krosno,Kraków,2 godz. 50 min,5,23.6
+355,Kraków,Książ Wielki,1 godz. 3 min,30,8.35
+356,Książ Wielki,Kraków,1 godz. 3 min,30,7.6
+357,Kraków,Lesko,4 godz. 20 min,5,33.8
+358,Lesko,Kraków,4 godz. 20 min,5,37.65
+359,Kraków,Lubin,4 godz. 55 min,5,40.05
+360,Lubin,Kraków,4 godz. 55 min,5,37.8
+361,Kraków,Lublin,5 godz. 20 min,33,43.0
+362,Lublin,Kraków,5 godz. 20 min,33,39.1
+363,Kraków,Łańcut,3 godz. 20 min,33,24.5
+364,Łańcut,Kraków,3 godz. 20 min,33,25.4
+365,Kraków,Łeba,9 godz. 10 min,5,72.3
+366,Łeba,Kraków,9 godz. 10 min,5,73.65
+367,Kraków,Łódź,4 godz. 25 min,33,38.3
+368,Łódź,Kraków,4 godz. 25 min,33,35.6
+369,Kraków,Medyka,4 godz. 20 min,33,37.7
+370,Medyka,Kraków,4 godz. 20 min,33,31.45
+371,Kraków,Międzyzdroje,8 godz. 55 min,5,69.6
+372,Międzyzdroje,Kraków,8 godz. 55 min,5,74.55
+373,Kraków,Mielec,2 godz. 15 min,11,16.55
+374,Mielec,Kraków,2 godz. 15 min,11,16.8
+375,Kraków,Mielno,12 godz. 30 min,5,108.65
+376,Mielno,Kraków,12 godz. 30 min,5,107.0
+377,Kraków,Myszków,1 godz. 43 min,5,14.45
+378,Myszków,Kraków,1 godz. 43 min,5,13.85
+379,Kraków,Niechorze,10 godz. 20 min,5,84.0
+380,Niechorze,Kraków,10 godz. 20 min,5,78.8
+381,Kraków,Nisko,3 godz. 40 min,34,32.15
+382,Nisko,Kraków,3 godz. 40 min,34,27.4
+383,Kraków,Ogrodzieniec,1 godz. 9 min,5,8.4
+384,Ogrodzieniec,Kraków,1 godz. 9 min,5,9.2
+385,Kraków,Opole,2 godz. 50 min,32,22.45
+386,Opole,Kraków,2 godz. 50 min,32,23.3
+387,Kraków,Ostrowiec Świętokrzyski,3 godz. 35 min,5,31.45
+388,Ostrowiec Świętokrzyski,Kraków,3 godz. 35 min,5,27.25
+389,Kraków,Pińczów,2 godz. 44 min,33,22.45
+390,Pińczów,Kraków,2 godz. 44 min,33,21.05
+391,Kraków,Piotrków Trybunalski,3 godz. 10 min,5,23.65
+392,Piotrków Trybunalski,Kraków,3 godz. 10 min,5,24.55
+393,Kraków,Pobierowo,9 godz. 55 min,4,75.25
+394,Pobierowo,Kraków,9 godz. 55 min,4,82.5
+395,Kraków,Polańczyk,5 godz. 28 min,5,45.2
+396,Polańczyk,Kraków,5 godz. 28 min,5,39.75
+397,Kraków,Połaniec,2 godz.,34,14.85
+398,Połaniec,Kraków,2 godz.,34,15.9
+399,Kraków,Przemyśl,3 godz.,33,24.7
+400,Przemyśl,Kraków,3 godz.,33,25.35
+401,Kraków,Przeworsk,3 godz. 40 min,5,26.9
+402,Przeworsk,Kraków,3 godz. 40 min,5,30.25
+403,Kraków,Pszczyna,2 godz. 22 min,5,20.15
+404,Pszczyna,Kraków,2 godz. 22 min,5,17.45
+405,Kraków,Puławy,4 godz. 25 min,33,35.15
+406,Puławy,Kraków,4 godz. 25 min,33,36.35
+407,Kraków,Racibórz,2 godz. 50 min,5,21.15
+408,Racibórz,Kraków,2 godz. 50 min,5,20.55
+409,Kraków,Radom,3 godz. 20 min,33,24.6
+410,Radom,Kraków,3 godz. 20 min,33,26.15
+411,Kraków,Rewal,10 godz. 10 min,1,78.75
+412,Rewal,Kraków,10 godz. 10 min,1,84.0
+413,Kraków,Rybnik,1 godz. 50 min,34,14.65
+414,Rybnik,Kraków,1 godz. 50 min,34,13.55
+415,Kraków,Rzeszów,2 godz. 26 min,33,19.05
+416,Rzeszów,Kraków,2 godz. 26 min,33,20.0
+417,Kraków,Sandomierz,3 godz.,35,21.6
+418,Sandomierz,Kraków,3 godz.,35,25.3
+419,Kraków,Sanok,3 godz. 45 min,34,32.45
+420,Sanok,Kraków,3 godz. 45 min,34,27.8
+421,Kraków,Skalbmierz,1 godz. 25 min,4,10.25
+422,Skalbmierz,Kraków,1 godz. 25 min,4,12.25
+423,Kraków,Skarżysko-Kamienna,2 godz. 35 min,35,21.85
+424,Skarżysko-Kamienna,Kraków,2 godz. 35 min,35,21.9
+425,Kraków,Skoczów,2 godz. 23 min,5,18.5
+426,Skoczów,Kraków,2 godz. 23 min,5,20.9
+427,Kraków,Słupsk,10 godz. 58 min,31,86.4
+428,Słupsk,Kraków,10 godz. 58 min,31,85.0
+429,Kraków,Solec-Zdrój,1 godz. 49 min,35,13.6
+430,Solec-Zdrój,Kraków,1 godz. 49 min,35,14.65
+431,Kraków,Sopot,10 godz. 20 min,33,82.9
+432,Sopot,Kraków,10 godz. 20 min,33,86.25
+433,Kraków,Stalowa Wola,3 godz. 15 min,32,25.7
+434,Stalowa Wola,Kraków,3 godz. 15 min,32,25.15
+435,Kraków,Staszów,2 godz. 43 min,36,20.15
+436,Staszów,Kraków,2 godz. 43 min,36,23.7
+437,Kraków,Szczecin,9 godz.,5,71.45
+438,Szczecin,Kraków,9 godz.,5,70.3
+439,Kraków,Tarnobrzeg,2 godz. 30 min,33,18.9
+440,Tarnobrzeg,Kraków,2 godz. 30 min,33,18.45
+441,Kraków,Tomaszów Lubelski,5 godz. 12 min,34,41.15
+442,Tomaszów Lubelski,Kraków,5 godz. 12 min,34,42.3
+443,Kraków,Toruń,7 godz. 45 min,36,58.3
+444,Toruń,Kraków,7 godz. 45 min,36,62.85
+445,Kraków,Tychy,1 godz. 10 min,5,10.2
+446,Tychy,Kraków,1 godz. 10 min,5,8.85
+447,Kraków,Ustka,11 godz. 38 min,36,97.8
+448,Ustka,Kraków,11 godz. 38 min,36,89.65
+449,Kraków,Ustroń,2 godz. 35 min,5,20.55
+450,Ustroń,Kraków,2 godz. 35 min,5,18.95
+451,Kraków,Ustronie Morskie,11 godz. 55 min,30,85.8
+452,Ustronie Morskie,Kraków,11 godz. 55 min,30,99.35
+453,Kraków,Ustrzyki Dolne,4 godz. 40 min,1,35.2
+454,Ustrzyki Dolne,Kraków,4 godz. 40 min,1,35.75
+455,Kraków,Ustrzyki Górne,5 godz. 40 min,33,42.1
+456,Ustrzyki Górne,Kraków,5 godz. 40 min,33,42.45
+457,Kraków,Wisła,2 godz. 50 min,36,23.75
+458,Wisła,Kraków,2 godz. 50 min,36,24.15
+459,Kraków,Władysławowo,7 godz. 25 min,5,53.6
+460,Władysławowo,Kraków,7 godz. 25 min,5,56.35
+461,Kraków,Włocławek,6 godz. 15 min,36,52.95
+462,Włocławek,Kraków,6 godz. 15 min,36,53.5
+463,Kraków,Wodzisław,1 godz. 16 min,5,9.8
+464,Wodzisław,Kraków,1 godz. 16 min,5,10.2
+465,Kraków,Wodzisław Śląski,3 godz.,8,23.1
+466,Wodzisław Śląski,Kraków,3 godz.,8,25.15
+467,Kraków,Wrocław,3 godz. 40 min,5,28.75
+468,Wrocław,Kraków,3 godz. 40 min,5,28.45
+469,Kraków,Zabrze,1 godz. 30 min,4,11.6
+470,Zabrze,Kraków,1 godz. 30 min,4,11.15
+471,Kraków,Zamość,5 godz. 38 min,31,49.4
+472,Zamość,Kraków,5 godz. 38 min,31,45.75
+473,Kraków,Zawiercie,1 godz. 20 min,37,10.05
+474,Zawiercie,Kraków,1 godz. 20 min,37,10.7
+475,Kraków,Zielona Góra,8 godz. 50 min,5,70.8
+476,Zielona Góra,Kraków,8 godz. 50 min,5,75.25
+477,Kraków,Żory,1 godz. 55 min,32,15.7
+478,Żory,Kraków,1 godz. 55 min,32,16.35
+479,Kraków,Żywiec,2 godz. 10 min,30,18.5
+480,Żywiec,Kraków,2 godz. 10 min,30,18.2
